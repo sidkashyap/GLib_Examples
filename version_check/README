@@ -1,0 +1,13 @@
+Author:
+Sidharth N Kashyap
+@sidkashyap
+
+Version Check: 
+
+https://developer.gnome.org/glib/2.42/glib-Version-Information.html
+
+Compile Instruction:
+
+gcc version_check.c `pkg-config --cflags --libs glib-2.0` -o version_check.out
+
+
